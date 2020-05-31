@@ -5,3 +5,10 @@ KPSS Güncel bilgiler için hafıza kartları prototipidir.
 
 
 Swipe Card kullanılmıştır.
+
+
+Test Kısmı Hazırlanıyor....
+
+
+![Screenshot_1](https://user-images.githubusercontent.com/51006791/83351477-f4e96580-a34c-11ea-8937-26bb0cc3dad7.png)
+
